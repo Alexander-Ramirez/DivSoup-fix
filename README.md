@@ -11,3 +11,6 @@ css change .benefits to benefits
 
 changed div on line 28 and 50 to content and remove class="content"
 css change .content to content
+
+line 12 removed span class="seo"
+css removed header h1 .seo and put the contents in header h1
