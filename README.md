@@ -14,3 +14,8 @@ css change .content to content
 
 line 12 removed span class="seo"
 css removed header h1 .seo and put the contents in header h1
+
+css move content from header div ul to header div to combine code
+
+line 13 and 25 changed div to info
+css changed header div to header info
