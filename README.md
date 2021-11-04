@@ -19,3 +19,11 @@ css move content from header div ul to header div to combine code
 
 line 13 and 25 changed div to info
 css changed header div to header info
+
+removed a bunch of div in benefits and combined them into one with benefits-info
+css combined a bunch of benefits line into 3
+
+--------------------------------------------------------------------------------------
+
+restarted everything 
+
